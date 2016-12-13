@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_b698768c6690f67e8dccfdc3ba70514fae8bc001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95b51a5e36358759b7f594b8f656b35c19a19634">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ff9526222d8b466b31d45a412dab42e4cda9aac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_37556bb109417cb295611acddab9a86b5f277b91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_bc7256165a7038e223d7b20f213ff93a12c8bbf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_fb0114b24ab15a3304b42e0e884463e644f90b92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6ca575192e2d7fc6e47fdd4439c0dc43eee00be5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_e9a155ea03c2ffe2fdcd4dd827bf9fdfe9978c12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e1c579c219c8a3d878d9377bf08835db5beade7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d82087624f46cb94de89e086cc6f8f6eab97c0b2">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_98c0ecd1111d9804e53bbd9c7846f5efc104661d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8b289a35c8b3aa6a450e0e0b9848777e7f362d84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8491d8d6a362aef18dae81e3754f07496bd594f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_531bea844c6455d766e34a09593722e16c4745aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_f30ac36dc30e58d7e155b36b4f7d882d88b39493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_754028a03b083709342b30e109f28069c675d4c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_3e3d31a41bb845f5990184fff2bf7b6b085bef66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_cf32ec3c03743427ffaa362e96f908d0a8608577\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_35edc089978f5e7b22179e0fb6324ec1d3f3669f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_94f942d3344fcff1325e380f29821644cbaa6b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f5978ff8476feb66e29a8227256e41d3e34b02c">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ba73752029100c9d8e28a24822da1bd14c829b23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_6a5c9b2a7190a70e74169f85b50d0ee73dbcf984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_9789b60f2cca8fd54cad99cefb619f3b1ef52c80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1a645edec5a4efc8ce0b52e09816e0b359aec153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8117db4835b132d8af5717f4a93a818248865d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_e4c5ddafac03e32fcecfdd67750350dfbc4720ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bef43ed2e5978a28bd92f250d2b9319834266f3">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d649ed1d32d31056955d894fb5ce1b2b3e55c9ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_d659fc11fa1fb734f9a9c100f7ebd2c29bd18cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_2bbbcdc2360c0d1e909a0d8c9a8acd928a946c22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f93a6951be0e0709cca4b79460835007c8dabda6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a27e21200842f7b9fc1e60e99254ee982892a664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_2a45f02b563f575795029aacec67ab3826014961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_4b62e5bf24c44836f754c50ff7b4f4349efc116b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_cbe0ed351fe41cc9ca9e675a411eece013a89622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Amal\Documents\AndroidProjects\SectionnedListView\secondapproach\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_13538472c730f4e5c5efecc323fc5dda107e5951\classes.dex" />
+    </item>
+
+</items>

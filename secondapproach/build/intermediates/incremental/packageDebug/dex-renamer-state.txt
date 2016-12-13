@@ -1,0 +1,7 @@
+#Tue Dec 13 10:32:41 WAT 2016
+base.0=C\:\\Users\\Amal\\Documents\\AndroidProjects\\SectionnedListView\\secondapproach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ba73752029100c9d8e28a24822da1bd14c829b23
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Amal\\Documents\\AndroidProjects\\SectionnedListView\\secondapproach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_98c0ecd1111d9804e53bbd9c7846f5efc104661d\\classes.dex
+base.1=C\:\\Users\\Amal\\Documents\\AndroidProjects\\SectionnedListView\\secondapproach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_98c0ecd1111d9804e53bbd9c7846f5efc104661d
+file.0=C\:\\Users\\Amal\\Documents\\AndroidProjects\\SectionnedListView\\secondapproach\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ba73752029100c9d8e28a24822da1bd14c829b23\\classes.dex
